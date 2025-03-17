@@ -5,7 +5,9 @@ Blockchain for Land Title Management
 
 ## Project Description
 Develop a system that uses blockchain to track land ownership and prevent fraud.
+
 ![Screenshot From 2025-03-17 15-35-03](https://github.com/user-attachments/assets/1f1a63e0-c18b-49d3-a64b-b50e2ca24100)
+
 
 
 ## Project Vision
